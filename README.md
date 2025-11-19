@@ -5,16 +5,12 @@ This application is an app based in rspec tests of OneBitCode's course. Includes
 	:white_check_mark: OneBitCode Rspec 🚀 Done :white_check_mark:
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Lucasdfg07/Rspec-study-tests?color=%2304D361%22">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/touridev/rspec-study?color=%2304D361%22">
 	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Lucasdfg07/Rspec-study-tests">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/touridev/rspec-study">
 	
-  <a href="https://www.linkedin.com/in/lucas-siqueira-167362148/">
-    <img alt="Made by Lucas Siqueira" src="https://img.shields.io/badge/made%20by-Lucasdfg07-%2304D361">
-  </a>
-
-  <a href="https://github.com/Lucasdfg07/Rspec-study-tests/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lucasdfg07/Rspec-study-tests">
+  <a href="https://github.com/touridev/rspec-study/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/touridev/rspec-study">
   </a>
 </p>
 
@@ -69,19 +65,15 @@ The main features of the application are:
 
 
 ## Links
-  - Repository: https://github.com/Lucasdfg07/Rspec-study-tests
+  - Repository: https://github.com/touridev/rspec-study
     - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      ftorjob@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
 
   ## Versioning
 
   1.0.0.0
 
-
-  ## Authors
-
-  * **Lucas Siqueira Fernandes** 
 
   Please follow github and join us!
   Thanks to visiting me and good coding!
